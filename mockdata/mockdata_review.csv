@@ -1,0 +1,101 @@
+review_id,account_number,film_id,title,score,description,review_date
+1,14,11,Public-key,10,justo in blandit ultrices enim lorem ipsum dolor,2019-11-24
+2,18,18,implementation,9,odio cras mi pede malesuada in,2020-07-05
+3,4,3,Quality-focused,6,aenean fermentum donec ut mauris,2019-04-17
+4,8,15,artificial intelligence,3,nibh fusce lacus purus aliquet,2019-09-16
+5,3,20,Grass-roots,2,sodales sed tincidunt eu felis,2018-11-13
+6,19,15,Programmable,8,suspendisse ornare consequat lectus in est risus auctor sed,2020-04-02
+7,4,5,explicit,1,sociis natoque penatibus et magnis dis parturient montes,2019-02-13
+8,17,19,User-centric,3,quis libero nullam sit amet turpis elementum,2020-01-02
+9,5,15,secured line,10,accumsan tellus nisi,2020-06-24
+10,18,16,time-frame,4,amet diam in magna bibendum imperdiet,2019-09-23
+11,13,14,secondary,3,platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget,2020-05-18
+12,17,13,Business-focused,7,ipsum primis in faucibus orci luctus et ultrices,2019-04-20
+13,9,10,Multi-channelled,6,duis bibendum felis,2018-10-31
+14,14,8,Robust,10,ultrices erat tortor sollicitudin mi sit amet,2019-10-01
+15,7,11,tertiary,2,eros suspendisse accumsan tortor quis turpis sed ante vivamus,2019-09-12
+16,12,3,asymmetric,4,curae donec pharetra magna vestibulum aliquet ultrices erat tortor,2020-09-11
+17,10,18,Quality-focused,3,at nibh in hac habitasse,2019-10-31
+18,20,16,paradigm,5,curae mauris viverra diam vitae quam suspendisse,2018-12-09
+19,7,9,Fully-configurable,8,et ultrices posuere cubilia curae,2019-05-17
+20,20,14,discrete,7,ultrices phasellus id sapien in sapien iaculis congue vivamus metus,2019-01-12
+21,4,2,adapter,4,lacus morbi quis tortor id nulla ultrices,2020-01-16
+22,4,10,mission-critical,9,nunc nisl duis bibendum felis sed interdum venenatis turpis enim,2019-04-13
+23,1,1,solution-oriented,10,placerat praesent blandit nam nulla integer pede justo,2020-02-24
+24,6,2,secured line,9,erat quisque erat eros viverra eget congue eget semper rutrum,2020-06-06
+25,5,10,motivating,9,vitae nisi nam ultrices libero non,2020-01-16
+26,18,17,Robust,9,sed tristique in tempus sit amet sem fusce consequat nulla,2019-09-12
+27,4,7,matrices,1,varius ut blandit non interdum in ante vestibulum ante,2019-08-09
+28,1,14,grid-enabled,3,nascetur ridiculus mus vivamus,2020-09-30
+29,11,9,context-sensitive,9,ante nulla justo aliquam quis turpis eget elit sodales,2018-10-31
+30,19,8,parallelism,1,nec sem duis aliquam convallis nunc,2019-07-08
+31,19,1,Public-key,6,ut blandit non interdum in ante vestibulum ante ipsum,2019-04-29
+32,7,3,Down-sized,10,mattis nibh ligula,2019-06-27
+33,19,15,Advanced,8,neque aenean auctor gravida sem praesent id,2020-09-05
+34,7,1,Vision-oriented,10,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus,2019-09-19
+35,6,19,alliance,4,vestibulum quam sapien varius,2019-09-16
+36,11,20,attitude-oriented,6,massa volutpat convallis morbi odio odio elementum,2019-07-08
+37,4,6,Virtual,3,lectus pellentesque at nulla suspendisse potenti cras in purus eu,2018-11-16
+38,15,16,Enterprise-wide,9,id massa id nisl venenatis,2020-05-03
+39,15,8,multi-tasking,9,lectus pellentesque at,2020-08-20
+40,15,14,Ergonomic,2,dapibus augue vel accumsan tellus nisi,2020-01-01
+41,1,6,Profit-focused,7,consequat nulla nisl nunc nisl duis bibendum felis sed,2019-07-30
+42,3,16,Phased,10,a feugiat et,2020-02-14
+43,14,20,directional,2,imperdiet nullam orci pede venenatis non sodales,2019-12-22
+44,6,7,knowledge user,6,bibendum felis sed interdum venenatis turpis enim,2020-01-29
+45,16,19,User-centric,4,ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis,2018-10-27
+46,10,9,collaboration,2,vivamus in felis eu sapien cursus vestibulum proin,2019-02-18
+47,11,16,policy,7,feugiat non pretium quis lectus suspendisse potenti,2019-08-12
+48,1,1,logistical,10,mi integer ac neque duis bibendum morbi non quam nec,2019-04-25
+49,5,6,secured line,6,condimentum curabitur in libero ut massa,2019-08-22
+50,14,5,Multi-tiered,6,ante ipsum primis in,2019-06-26
+51,16,3,object-oriented,5,orci eget orci,2020-08-12
+52,19,8,Streamlined,4,erat nulla tempus vivamus in felis,2019-08-20
+53,11,18,support,1,sed nisl nunc rhoncus dui vel sem sed sagittis,2019-06-05
+54,7,18,eco-centric,3,ut nulla sed accumsan felis ut at,2020-02-29
+55,15,20,Phased,2,dis parturient montes nascetur ridiculus mus vivamus vestibulum,2020-04-20
+56,5,3,encoding,1,aenean sit amet justo,2019-02-22
+57,17,15,benchmark,10,sollicitudin ut suscipit a feugiat et eros vestibulum ac,2019-09-09
+58,4,8,Realigned,9,vulputate luctus cum sociis natoque penatibus et magnis dis parturient,2020-09-03
+59,18,8,Business-focused,5,cum sociis natoque penatibus et magnis,2020-06-28
+60,13,18,executive,9,tincidunt in leo maecenas pulvinar lobortis,2019-12-22
+61,7,3,moratorium,10,non ligula pellentesque ultrices phasellus id sapien in sapien,2020-10-06
+62,14,4,Secured,4,dapibus nulla suscipit ligula in lacus curabitur,2020-09-12
+63,15,10,solution,9,nulla sed vel enim sit amet nunc viverra,2020-07-14
+64,10,18,intranet,9,odio porttitor id consequat in consequat ut nulla,2019-02-08
+65,15,3,service-desk,3,maecenas tincidunt lacus at velit vivamus vel,2020-01-07
+66,13,6,actuating,7,vivamus in felis eu sapien cursus vestibulum proin eu,2020-04-17
+67,5,12,clear-thinking,6,aliquam erat volutpat,2020-05-12
+68,4,18,installation,9,id nulla ultrices aliquet maecenas leo,2020-09-16
+69,14,3,clear-thinking,7,id sapien in sapien iaculis congue vivamus,2020-07-11
+70,3,18,4th generation,7,mauris ullamcorper purus sit amet nulla quisque,2020-10-15
+71,1,2,Organic,3,nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus,2019-02-24
+72,16,6,Assimilated,5,interdum mauris ullamcorper,2018-10-31
+73,3,2,Seamless,7,nunc viverra dapibus nulla suscipit ligula in lacus,2018-10-28
+74,8,2,standardization,3,ac neque duis bibendum morbi non quam nec,2019-11-28
+75,16,18,global,4,consequat morbi a ipsum integer a,2019-10-30
+76,11,16,Focused,4,eleifend pede libero quis orci nullam molestie,2020-10-13
+77,17,19,disintermediate,9,fusce congue diam id ornare imperdiet,2020-08-16
+78,9,20,Fully-configurable,1,imperdiet nullam orci pede venenatis non sodales sed tincidunt,2019-12-31
+79,9,3,dedicated,9,sem fusce consequat nulla nisl nunc nisl duis,2020-04-26
+80,16,1,24/7,2,primis in faucibus orci luctus et,2020-06-09
+81,9,16,Re-contextualized,6,id ligula suspendisse ornare consequat lectus in est risus,2019-06-29
+82,14,13,alliance,2,vestibulum vestibulum ante,2020-02-28
+83,10,11,Up-sized,2,nunc vestibulum ante ipsum primis in faucibus,2019-09-15
+84,5,7,Vision-oriented,6,diam nam tristique tortor eu pede,2020-08-09
+85,20,13,Multi-layered,8,augue vel accumsan tellus nisi eu orci mauris lacinia,2020-08-16
+86,9,13,Automated,9,turpis nec euismod,2018-10-21
+87,10,7,Horizontal,9,et ultrices posuere cubilia curae duis faucibus accumsan odio,2019-04-08
+88,16,2,workforce,10,praesent lectus vestibulum quam sapien varius ut blandit,2019-11-26
+89,20,16,definition,6,amet turpis elementum ligula,2019-03-10
+90,16,7,Programmable,9,ipsum dolor sit amet consectetuer adipiscing elit proin risus,2020-09-25
+91,6,8,algorithm,3,turpis eget elit sodales scelerisque mauris sit,2019-06-27
+92,6,19,Proactive,6,nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti,2019-08-09
+93,18,16,exuding,4,lobortis est phasellus sit amet erat nulla tempus vivamus,2020-08-04
+94,17,13,definition,1,blandit nam nulla integer pede justo lacinia eget tincidunt eget,2019-12-23
+95,17,5,project,1,justo sit amet sapien dignissim vestibulum vestibulum ante ipsum,2019-08-22
+96,7,1,Intuitive,5,mi integer ac,2020-04-04
+97,15,14,initiative,2,et magnis dis parturient montes nascetur,2019-06-20
+98,11,10,needs-based,2,tellus nulla ut erat id mauris vulputate elementum,2019-03-31
+99,9,12,web-enabled,4,porta volutpat quam pede lobortis ligula,2019-08-26
+100,5,16,instruction set,2,dui nec nisi volutpat eleifend,2020-03-19
